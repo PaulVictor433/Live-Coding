@@ -1,0 +1,82 @@
+body {
+    padding: 20;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.edozzier{
+    width: fit-content;
+    
+    background-color: #d0d8fc;
+    font-size: 14px;
+    color: black;
+    line-height: 21px;
+    font-weight: 400;
+}
+
+.smart{
+    font-family: sans-serif;
+    color: rgb(27, 22, 66);
+    font-size: 64px;
+    line-height: 64px;
+    font-weight: 300;
+}
+
+.all{
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 30px;
+    color: rgb(43, 42, 42);
+}
+.management{
+    font-family: sans-serif;
+    color: rgb(27, 22, 66);
+    font-size: 64px;
+    line-height: 64px;
+    font-weight: 700;
+}
+
+.head{
+    display: flex;
+    margin-top: 100px;
+    background-color: #eff1fe;
+}
+
+.buts{
+    padding-top: 50px;
+    align-content: space-around;
+}
+
+.rome{
+    font-size: 48px;
+    line-height: 57px;
+    font-weight: 300;
+    color: rgb(27, 22, 66);
+    font-family: sans-serif;
+}
+
+.st{
+    font-weight: 800;
+}
+
+.we{
+    font-size: 14px;
+    font-weight: 700;
+    color: rgb(63, 75, 75);
+    line-height: 22px;
+}
+
+.learn a{
+    text-decoration: none;
+}
+
+.learn a :hover{
+    color: red;
+    font-size: 17px;
+}
+
+
+.sec{
+    padding-top: 100px;
+    justify-content: center; align-items: center;
+}
